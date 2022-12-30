@@ -1,6 +1,6 @@
 function talk() {
     var know = {
-        "hi":"hello sir how can i help you?"
+        "hi":"hello sir how can i help you?",
         "who are you": "Hello, AICTE doubts clearing bot",
         "how are you": "Good :)",
         "can u help me with login": "Sure, follow the steps for login",
