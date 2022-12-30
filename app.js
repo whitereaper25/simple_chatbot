@@ -1,12 +1,13 @@
 function talk() {
     var know = {
-        "Who are you": "Hello, Codewith_random here ",
-        "How are you": "Good :)",
-        "What can i do for you": "Search CodeWithRandom on Google>>Thank Me Later",
-        "Your followers":
-            "I have my family of 200000 members, i don't have follower ,have supportive Famiy ",
+        "hi":"hello sir how can i help you?"
+        "who are you": "Hello, AICTE doubts clearing bot",
+        "how are you": "Good :)",
+        "can u help me with login": "Sure, follow the steps for login",
+        "can u help me with payment":
+            "Sure, follow the steps for payment",
         ok: "Thank You So Much ",
-        Bye: "Okay! Will meet soon..",
+        Bye: "Okay! Contact me anytime to get your doubts cleared..",
     };
     var user = document.getElementById("userBox").value;
     document.getElementById("chatLog").innerHTML = user + "<br>";
